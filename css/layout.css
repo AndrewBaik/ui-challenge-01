@@ -1,0 +1,17 @@
+html {
+  width: 100%;
+  margin-top: 1em;
+}
+
+div {
+margin: 0;
+padding: 0;
+}
+
+body {
+  margin: 0 2%;
+}
+
+.alpha, .bravo, .charlie, .delta, .echo, .fox, .golf, .h, .india {
+  border: 1px solid black;
+}
