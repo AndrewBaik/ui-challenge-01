@@ -1,0 +1,46 @@
+html {
+  width: 100%;
+  margin-top: 1em;
+  text-align: center;
+}
+
+body {
+  margin: 0 2%;
+  
+}
+
+.alpha {
+  background-color: yellow;
+}
+
+.bravo {
+  background-color: orange;
+}
+
+.charlie {
+  background-color: red;
+}
+
+.delta {
+  background-color: blue;
+}
+
+.echo {
+  background-color: peru;
+}
+
+.fox {
+  background-color: silver;
+}
+
+.golf {
+  background-color: skyblue;
+}
+
+.hotel {
+  background-color: green;
+}
+
+.india {
+  background-color: darkmagenta;
+}

@@ -1,0 +1,64 @@
+@media screen and (max-width: 768px){
+
+  .row-two div, .row-three div{
+    width: 250px;
+    float: left;
+  }
+
+  div.alpha {
+    height: 75px;
+    width: 96%;
+  }
+
+  div.bravo {
+    height: 150px;
+    width: 96%;
+  }
+
+  div.charlie, div.delta {
+    height: 125px;
+    width: 96%;
+  }
+
+  div.echo, div.fox, div.golf, div.hotel {
+    width: 48%;
+    height: 250px;
+  }
+  div.india {
+    float: left;
+    width: 96%;
+    height: 80px;
+  }
+}
+
+@media screen and (min-width: 768.1px){
+      
+  .alpha {
+    width: 96%;
+    height: 100px;
+  }
+  
+  .bravo {
+    float: left;
+    height: 600px;
+    width: 20%;
+  }
+  
+  .row-one div {
+    float: left;
+    width: 38%;
+    height: 200px;
+  }
+  
+  .row-two div, .row-three div {
+    float: left;
+    width: 19%;
+    height: 250px;
+  }
+
+  .india {
+    float: left;
+    width: 76%;
+    height: 150px;
+  }
+}
