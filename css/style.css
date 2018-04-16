@@ -5,52 +5,48 @@
     float: left;
   }
 
-  header.alpha {
+  div.alpha {
     height: 75px;
-    width: 98%;
+    width: 96%;
   }
 
   div.bravo {
     height: 150px;
-    width: 98%;
+    width: 96%;
   }
 
   div.charlie, div.delta {
     height: 125px;
-    width: 98%;
+    width: 96%;
   }
 
-  div.echo, div.fox, div.golf, div.h {
-    width: 48.9%;
+  div.echo, div.fox, div.golf, div.hotel {
+    width: 48%;
     height: 250px;
   }
   div.india {
     float: left;
-    width: 98%;
+    width: 96%;
     height: 80px;
   }
 }
 
-@media screen and (min-width: 768px){
-    
-  .alpha, .bravo {
-    position: relative;
-  }
-  
+@media screen and (min-width: 768.1px){
+      
   .alpha {
-    width: 97%;
+    width: 96%;
     height: 100px;
   }
   
   .bravo {
     float: left;
     height: 600px;
-    width: 20.3%;
+    width: 20%;
   }
   
   .row-one div {
-    display: inline-block;
-    width: 38.2%;
+    float: left;
+    width: 38%;
     height: 200px;
   }
   
@@ -60,13 +56,9 @@
     height: 250px;
   }
 
-  .delta {
-    margin-left: -5px;
-  }
-
   .india {
     float: left;
-    width: 76.5%;
-    height: 146px;
+    width: 76%;
+    height: 150px;
   }
 }
