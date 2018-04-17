@@ -1,4 +1,8 @@
 @media screen and (max-width: 768px){
+  body{
+    min-width: 480px;
+  }
+  
   .row-two div, .row-three div{
     width: 250px;
     float: left;
